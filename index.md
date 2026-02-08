@@ -16,4 +16,4 @@ Strong in testing, documentation, troubleshooting/root-cause analysis, and custo
 - [3× 150W 7-Band Spectrum LED Grow Lights](projects/grow-lights.md)
 
 ## Resume
-(Add a PDF later, then link it here)
+assets/img/EE Resume.pdf
