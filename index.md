@@ -1,9 +1,9 @@
 # Neil Berry
 
-Electrical Engineer (Entry-Level) — Quality/Manufacturing • Test/Validation • Embedded HW Integration  
-Oklahoma City, OK • Open to Remote/Hybrid  
+Electrical Engineer (Entry-Level)
+Oklahoma City, OK
 Email: Luzcidmusic@gmail.com • Phone: 845-667-0301  
-LinkedIn: [add link] • Portfolio Repo: [add link]
+
 
 ## About
 B.S. Electrical Engineering (SUNY New Paltz, 2012). Former LED product engineer at Environmental Lights.
